@@ -1,4 +1,5 @@
 {
+    "dropout": 0,
     "free": 3120,
     "basic": 5280,
     "advanced": 21800
