@@ -1,0 +1,49 @@
+,Market,Variant ID,Sign-up,Subscription,session_count,ltv
+0,Denmark,Control,False,dropout,2288,0
+1,Denmark,Variant 2,False,dropout,2216,0
+2,Denmark,Variant 1,False,dropout,2185,0
+3,Sweden,Variant 2,False,dropout,2051,0
+4,Sweden,Control,False,dropout,2045,0
+5,Sweden,Variant 1,False,dropout,1992,0
+6,Finland,Control,False,dropout,1569,0
+7,Finland,Variant 2,False,dropout,1411,0
+8,Finland,Variant 1,False,dropout,1401,0
+9,Norway,Control,False,dropout,1300,0
+10,Norway,Variant 1,False,dropout,1230,0
+11,Norway,Variant 2,False,dropout,1193,0
+12,Denmark,Variant 1,True,free,256,798720
+13,Sweden,Control,True,free,254,792480
+14,Sweden,Variant 1,True,free,244,761280
+15,Denmark,Control,True,free,241,751920
+16,Denmark,Variant 2,True,free,238,742560
+17,Sweden,Variant 2,True,free,238,742560
+18,Finland,Control,True,free,166,517920
+19,Norway,Control,True,free,158,492960
+20,Finland,Variant 2,True,free,158,492960
+21,Finland,Variant 1,True,free,154,480480
+22,Norway,Variant 2,True,free,143,446160
+23,Norway,Variant 1,True,free,133,414960
+24,Denmark,Control,True,basic,97,512160
+25,Sweden,Variant 2,True,basic,83,438240
+26,Sweden,Variant 1,True,basic,78,411840
+27,Denmark,Variant 2,True,basic,78,411840
+28,Sweden,Control,True,basic,75,396000
+29,Denmark,Variant 1,True,basic,69,364320
+30,Norway,Variant 2,True,basic,69,364320
+31,Finland,Control,True,basic,62,327360
+32,Finland,Variant 2,True,basic,55,290400
+33,Denmark,Variant 1,True,advanced,54,1177200
+34,Norway,Variant 1,True,basic,54,285120
+35,Norway,Control,True,basic,53,279840
+36,Finland,Variant 1,True,basic,52,274560
+37,Denmark,Control,True,advanced,44,959200
+38,Sweden,Variant 1,True,advanced,38,828400
+39,Sweden,Variant 2,True,advanced,37,806600
+40,Denmark,Variant 2,True,advanced,36,784800
+41,Finland,Control,True,advanced,29,632200
+42,Norway,Control,True,advanced,28,610400
+43,Sweden,Control,True,advanced,25,545000
+44,Finland,Variant 1,True,advanced,25,545000
+45,Finland,Variant 2,True,advanced,24,523200
+46,Norway,Variant 1,True,advanced,23,501400
+47,Norway,Variant 2,True,advanced,20,436000
